@@ -22,9 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/candl3_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="candl3_ca" height="30" width="40" /></a>
+<a href="https://twitter.com/Candl3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="candl3_ca" height="30" width="40" /></a>
 <a href="https://instagram.com/candl3_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candl3_ca" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/candl3_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="candl3_ca" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4BEzsNpFsXK6BYasjwLo8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="candl3_ca" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/fJjwm7B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fJjwm7B" height="30" width="40" /></a>
 </p>
 
