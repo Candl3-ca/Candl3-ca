@@ -2,7 +2,7 @@
 ![MasterHead](https://www.flightgift.com/wp-content/uploads/2018/12/FGC-Desktop-Xmas-Banner.jpg)
 <h1 align="center">Heya 👋, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Coding anime gif" width="400" src="https://c.tenor.com/xN1ows4EaFcAAAAC/reina-kousaka-happy.gif">
+<img align="right" alt="Coding anime gif" width="400" src="https://c.tenor.com/JPalvQbq3m4AAAAd/jahy-jahy-sama-wa-kujikenai.gif">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
