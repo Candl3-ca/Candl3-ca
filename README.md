@@ -2,7 +2,7 @@
 ![MasterHead](https://www.flightgift.com/wp-content/uploads/2018/12/FGC-Desktop-Xmas-Banner.jpg)
 <h1 align="center">Heya 👋, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Coding anime gif" width="400" src="https://c.tenor.com/JPalvQbq3m4AAAAd/jahy-jahy-sama-wa-kujikenai.gif">
+<img align="right" alt="Coding anime gif" width="400" src="https://gfycat.com/eminenthatefullaughingthrush">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
@@ -23,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Candl3_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="candl3_ca" height="30" width="40" /></a>
-<a href="https://instagram.com/candl3_ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candl3_ca" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4BEzsNpFsXK6BYasjwLo8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="candl3_ca" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/fJjwm7B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fJjwm7B" height="30" width="40" /></a>
 </p>
