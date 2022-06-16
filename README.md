@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.flightgift.com/wp-content/uploads/2018/12/FGC-Desktop-Xmas-Banner.jpg)
+![MasterHead](https://pbs.twimg.com/media/EaTuo8_WsAIjjDC?format=jpg&name=large)
 <h1 align="center">Heya 👋, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
 <img align="right" alt="Coding anime gif" width="400" src="https://c.tenor.com/505juPr22V8AAAAC/sewerslvt-jvnko.gif">
