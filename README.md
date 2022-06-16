@@ -2,7 +2,7 @@
 ![MasterHead](https://pbs.twimg.com/media/EaTuo8_WsAIjjDC?format=jpg&name=large)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Coding anime gif" width="400" src="https://im.ezgif.com/tmp/ezgif-1-0db74095ed.gif ">
+<img align="right" alt="Sewerslvt Junko gif" width="400" src="https://im.ezgif.com/tmp/ezgif-1-addb233992.gif">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
