@@ -1,8 +1,8 @@
 
-![MasterHead](https://pbs.twimg.com/media/EaTuo8_WsAIjjDC?format=jpg&name=large)
+![MasterHead](https://pbs.twimg.com/media/EhpX651UYAAQAKS?format=jpg&name=large)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Sewerslvt Junko gif" width="400" src="https://c.tenor.com/P-zmDKwT8ZYAAAAd/anime-girl.gif">
+<img align="right" alt="Shikimori wishing you all the best gif" width="400" src="https://c.tenor.com/FzmWbaNWz0MAAAAC/shikimori-micchan.gif">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
