@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Game mods and bots**
 
-- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, C++**
+- I’m currently learning **Java, SQL, HTML, CSS, JavaScript, C++ & C#**
 
 - I’m looking to collaborate on **on mods, game dev, 3d modelling, and discord bots**
 
