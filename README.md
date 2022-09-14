@@ -1,8 +1,8 @@
 
-![MasterHead](https://pbs.twimg.com/media/EhpX651UYAAQAKS?format=jpg&name=large)
+![MasterHead](https://64.media.tumblr.com/9b4a2fa4ebc71aef454eab7adb6c6c32/0ba47cfb07c81976-e5/s500x750/a41971a51ad9d37034edb7f9862e2f482f6adb3e.gifv)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Shikimori wishing you all the best gif" width="400" src="https://c.tenor.com/FzmWbaNWz0MAAAAC/shikimori-micchan.gif">
+<img align="right" alt="Anime purple hand heart" width="400" src="https://64.media.tumblr.com/623366a7b0de953592fec48db9d55c21/36a7909ccbfd3506-e1/s500x750/3ef9db6f3a17fa6d98aede3169260e827dcf1091.gifv">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
