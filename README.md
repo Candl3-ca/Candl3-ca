@@ -1,8 +1,8 @@
 
-![MasterHead](https://pbs.twimg.com/media/EhpX651UYAAQAKS?format=jpg&name=large)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/20a7a872869813.5bf6d01ae2dd2.jpg)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
-<img align="right" alt="Shikimori wishing you all the best gif" width="400" src="https://c.tenor.com/FzmWbaNWz0MAAAAC/shikimori-micchan.gif">
+<img align="right" alt="Techwear gif" width="400" src="https://i.pinimg.com/originals/01/5f/93/015f9320cccd1010ce83e98d6445859e.gif">
 
 - 🔭 I’m currently working on **Game mods and bots**
 
