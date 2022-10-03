@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=candl3-ca&show_icons=true&theme=tokyonight&title_color=ae00ff&bg_color=000000&locale=en" alt="candl3-ca" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candl3-ca&theme=dark" alt="candl3-ca" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candl3-ca&theme=highcontrast" alt="candl3-ca" /></p>
