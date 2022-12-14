@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/20a7a872869813.5bf6d01ae2dd2.jpg)
 <h1 align="center">Heya, I'm Candl3</h1>
-<h3 align="center">A full time student in Computer Science & Technology at Vanier College.</h3>
+<h3 align="center">A full time student in Certified CyberSec at McGill.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=candl3-ca&label=Profile%20views&color=77008f&style=plastic" alt="candl3-ca" /> </p>
 
@@ -23,6 +23,8 @@
 - 🎵 Jamming always on spotify! [join me @f20030515s](join me @f20030515s)
 
 - ⚡ Fun fact **I live in the virtual world :>**
+
+- Used to study in Comp Sci & Tech at Vanier college.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
