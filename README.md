@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/20a7a872869813.5bf6d01ae2dd2.jpg)
+![MasterHead](https://pbs.twimg.com/media/EhpX651UYAAQAKS?format=jpg&name=large)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Certified CyberSec at McGill.</h3>
 <h2 align="center">https://candl3-ca.github.io/</h2>
@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candl3-ca" alt="candl3-ca" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/cand13_" target="blank"><img src="https://img.shields.io/twitter/follow/cand13_?logo=twitter&style=for-the-badge" alt="cand13_" /></a> </p>
+<p align="left"> <a href=https://twitter.com/Candl3_" target="blank"><img src="https://img.shields.io/twitter/follow/cand13_?logo=twitter&style=for-the-badge" alt="cand13_" /></a> </p>
+
+<img align="right" alt="Shikimori wishing you all the best gif" width="400" src="https://c.tenor.com/FzmWbaNWz0MAAAAC/shikimori-micchan.gif">
+
 
 - 🔭 I’m currently working on **Game mods and bots**
 
