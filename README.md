@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=candl3-ca" alt="candl3-ca" /></a> </p>
 
-<p align="left"> <a href=https://twitter.com/Candl3_ target="blank"><img src="https://img.shields.io/twitter/follow/cand13_?logo=twitter&style=for-the-badge" alt="cand13_" /></a> </p>
+<!-- <p align="left"> <a href=https://twitter.com/Candl3_ target="blank"><img src="https://img.shields.io/twitter/follow/cand13_?logo=twitter&style=for-the-badge" alt="cand13_" /></a> </p> -->
 
 <img align="right" alt="Shikimori wishing you all the best gif" width="400" src="https://c.tenor.com/FzmWbaNWz0MAAAAC/shikimori-micchan.gif">
 
