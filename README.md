@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/EhpX651UYAAQAKS?format=jpg&name=large)
+![MasterHead](https://pbs.twimg.com/media/EaTuo8_WsAIjjDC?format=jpg&name=large)
 <h1 align="center">Heya, I'm Candl3</h1>
 <h3 align="center">A full time student in Certified CyberSec at McGill.</h3>
 <h2 align="center">https://candl3-ca.github.io/</h2>
