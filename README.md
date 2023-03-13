@@ -24,7 +24,7 @@
 
 - You can reach out to me through **Discord**
 
-- 🎵 Jamming always on spotify! [join me @f20030515s](join me @f20030515s)
+- 🎵 Always jamming on Spotify! 
 
 - ⚡ Fun fact **I live in the virtual world :>**
 
